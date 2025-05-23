@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, sou Marcelo Itacarambi</h1>
 
-🔐 Aspirante a Profissional de Segurança Ofensiva | Entusiasta do Red Team e Pentest
-🌍 Aberto a trabalho remoto – Baseado no Brasil
-💻 Apaixonado por Linux, Exploração Web, Escalação de Privilégios e CTFs
-📚 Atualmente ativo no TryHackMe, Hack The Box e desenvolvendo ferramentas Python/Bash
+🔐 Aspirante a Profissional de Segurança Ofensiva | Entusiasta do Red Team e Pentest  
+🌍 Aberto a trabalho remoto – Baseado no Brasil  
+💻 Apaixonado por Linux, Exploração Web, Escalação de Privilégios e CTFs  
+📚 Atualmente ativo no TryHackMe, Hack The Box e desenvolvendo ferramentas Python/Bash  
 
 ---
 
