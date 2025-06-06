@@ -1,32 +1,50 @@
 <h1 align="center">👋 Olá, eu sou Marcelo Itacarambi</h1>
 
-🔐 Aspirante a Profissional de Segurança Ofensiva | Entusiasta de Red Team & Pentest  
-🌍 Aberto a trabalho remoto – Baseado no Brasil  
-💻 Apaixonado por Linux, Exploração Web, Escalada de Privilégios & CTFs  
-📚 Atualmente ativo no TryHackMe, Hack The Box e desenvolvendo ferramentas em Python/Bash  
+🔐 Estudante de Ciência da Computação | Focado em Segurança Ofensiva, Red Team e Pentest  
+🌍 Aberto a oportunidades remotas – Baseado no Brasil  
+📈 Em constante aprendizado, com foco em certificações, desenvolvimento técnico e ingresso no mercado de trabalho
 
 ---
 
-### 🧰 Ferramentas & Tecnologias com as quais trabalho:
-- Nmap, Netcat, Burp Suite, Metasploit, Wireshark  
-- Linux, Python, Bash, Git  
-- TryHackMe, Hack The Box, OverTheWire  
+### 🧠 Sobre Mim
+
+Atualmente no segundo semestre da graduação em Ciência da Computação, busco aliar teoria acadêmica à prática real por meio de laboratórios, CTFs e desenvolvimento de ferramentas para segurança ofensiva.  
+Sou certificado como **Profissional de Pentest pela DesecSecurity** e mantenho o compromisso diário com o aprimoramento técnico e ético na área de cibersegurança.
 
 ---
 
-### 🚀 Em que estou trabalhando:
-- Criando scripts personalizados de enumeração  
-- Escrevendo walkthroughs de CTFs  
-- Estudando para o eJPT e aprimorando habilidades em Red Team  
+### 🚀 Em que estou trabalhando
+
+- Estudo e prática contínua em plataformas como **Hack The Box** e **OverTheWire**  
+- Desenvolvimento de **scripts de automação**, exploits e ferramentas de enumeração  
+- Produção de **write-ups técnicos** com foco educacional e documentacional  
+- Preparação para novas certificações na área de segurança ofensiva  
 
 ---
 
-### 📂 Projetos principais:
-🔐 [Write-ups de CTFs](https://github.com/Itacarambi/CTFs)  
-🛠️ [Ferramentas & Scripts de Segurança](https://github.com/Itacarambi/Projects)  
+### 📂 Repositórios em destaque
+
+🔐 [CTFs & Write-ups](https://github.com/ItacarambiSec/CTFs)  
+Repositório dedicado à resolução de desafios práticos em segurança ofensiva, com foco em raciocínio técnico e documentação clara.
+
+🛠️ [Projetos, Ferramentas & Exploits](https://github.com/ItacarambiSec/Projects)  
+Scripts, automações e ferramentas criadas durante minha trajetória de estudos, incluindo recursos reutilizáveis para pentests e CTFs.
 
 ---
 
-### 📫 Contato:
-- LinkedIn: [linkedin.com/in/itacarambi](https://linkedin.com/in/itacarambi)  
-- Email: `itacarambi.security@proton.me`
+### 🧰 Tecnologias & Ferramentas
+
+- **Sistemas e Linguagens:** Linux, Python, Bash, Git  
+- **Ferramentas de Segurança:** Nmap, Netcat, Burp Suite, Metasploit, Wireshark  
+- **Ambientes de Estudo:** Hack The Box, OverTheWire  
+
+*(Embora ferramentas sejam importantes, valorizo mais o entendimento profundo dos fundamentos que as sustentam.)*
+
+---
+
+### 📫 Contato
+
+- 📧 Email: `marceloitacarambi-h1@hotmail.com`  
+- 🔗 LinkedIn: [linkedin.com/in/marcelo-itacarambi](https://www.linkedin.com/in/marcelo-itacarambi/)  
+
+Sigo aprendendo, testando e crescendo tecnicamente, sempre em busca de novos desafios e oportunidades para contribuir com ética e excelência profissional na área de cibersegurança.
